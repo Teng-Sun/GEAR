@@ -1,8 +1,11 @@
 # Genearl Debiasing for Multimodal Sentiment Analysis
 
 > [**General Debiasing for Multimodal Sentiment Analysis**]([https://arxiv.org/abs/2307.10511](https://arxiv.org/abs/2307.10511))
-> Teng Sun, Juntong Ni, Wenjie Wang*, Liqiang Jing, Yinwei Wei, Liqiang Nie 
-> In Proceedings of the 31st ACM International Conference on Multimedia (MM ’23) 
+> 
+> Teng Sun, Juntong Ni, Wenjie Wang*, Liqiang Jing, Yinwei Wei, Liqiang Nie
+> 
+> In Proceedings of the 31st ACM International Conference on Multimedia (MM ’23)
+> 
 > *arXiv preprint ([arXiv 2307.10511](https://arxiv.org/abs/2307.10511))*
 
 ## Usage
